@@ -1,4 +1,4 @@
-package Source_Code;
+package Source_code;
 
 import java.io.File;
 import java.io.FileInputStream;

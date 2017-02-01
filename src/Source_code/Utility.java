@@ -1,4 +1,4 @@
-package Source_Code;
+package Source_code;
  
 import java.io.File;import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
@@ -28,4 +28,3 @@ System.out.println("Exception while taking screenshot "+e.getMessage());
 }
 }
 
- 
