@@ -1,4 +1,4 @@
-package Source_code;
+package Source_Code;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
@@ -78,6 +78,7 @@ public class LoginPage {
 			Utility.captureScreenshot(driver, "ICIC_home");
 		 }
 		 	
+		
 			
 			@Test (priority=2)		
      	    public void View_Billers() throws InterruptedException
